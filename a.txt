@@ -1,2 +1,3 @@
 hello >>a.txt
 some changes done by user01
+im writting a.txt
