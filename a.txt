@@ -2,3 +2,5 @@ hello >>a.txt
 some changes done by user01
 im rewriting a.txt
 adding some more lines
+im rewrting a.txt in user2 again
+just some more lines
