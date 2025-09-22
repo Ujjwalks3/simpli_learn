@@ -1,2 +1,4 @@
 hello >>a.txt
 some changes done by user01
+im rewriting a.txt
+adding some more lines
